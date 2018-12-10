@@ -1,2 +1,2 @@
-# Final-Project-
+# Astr-119-Final-Project
 Project-3
